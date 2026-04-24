@@ -1,0 +1,2 @@
+
+addmultiplenumbers([num, num, ..])
